@@ -1,1 +1,2 @@
-Bike Sales data Cleaning and visualisation using Excel 
+# Bike Sales data Cleaning and visualisation using Excel 
+Analysing bike sales data using Excel 
